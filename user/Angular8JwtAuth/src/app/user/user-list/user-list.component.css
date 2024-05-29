@@ -1,0 +1,11 @@
+.btn-custom-red {
+    color: white;
+    background-color: red;
+  }
+  .btn-custom-green {
+    background-color: #28a745; /* Vert */
+    border-color: #28a745; /* Couleur de la bordure */
+    color: white; /* Texte blanc */
+}
+
+
